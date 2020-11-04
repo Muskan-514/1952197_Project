@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/1952197_Project/testng.xml">
+<suite name="">
+    <test name="1952197_Project">
         <classes/>
+        <class name="Class1"/>
+        <class name="Class2"/>
     </test>
 </suite>
